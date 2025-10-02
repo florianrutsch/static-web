@@ -1,0 +1,10 @@
+{
+"trailingSlash": "auto",
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://www.eventbrite.de/e/spieleabend-bei-florian-tickets-1763961218489?aff=oddtdtcreator"
+    }
+
+  ]
+}
