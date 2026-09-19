@@ -1,0 +1,10 @@
+{
+"trailingSlash": "auto",
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://www.eventbrite.com/e/1999271874997?aff=oddtdtcreator"
+    }
+
+  ]
+}
